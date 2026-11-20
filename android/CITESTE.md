@@ -23,6 +23,6 @@ ce ai marcat pe telefon (★, stadiu, notițe). Merge pe același Wi-Fi.
 
 Permisiuni: doar internet. Aplicația nu citește contacte, poze, locație sau mesaje. Datele stau doar pe telefon.
 
-Versiune: 1.5 (cod 5)
-SHA-256: `4a195f22c538caa1ae8927def4f34c126540ec88b216071d26901a7f9a4adf29`
+Versiune: 1.6 (cod 6)
+SHA-256: `5c0107356a3e891bfa360138f6fd083bddc5f5464ebc1720f45383cffd0ba521`
 Certificat (SHA-256): `6cadebc3332c23dcdb89199848abe345b31a48eb3f764d8de1f365ba0b2a09a2`
