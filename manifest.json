@@ -1,14 +1,14 @@
 {
- "version": "2026.11.24.7",
- "zip_sha256": "f9d6045296e46e0ffbe959cde40bca6808b78856cb44f0cce3ac2613f5dda80d",
- "size": 42685830,
+ "version": "2026.11.24.8",
+ "zip_sha256": "81d37a02cd90fd7222bcdbb44559c0981ebc1ab81249b9231fff067308b11d33",
+ "size": 42686582,
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/torokrichard/vizo-releases/main/releases/2026.11.24.7/Vizo-2026.11.24.7.zip",
-   "sha256": "f9d6045296e46e0ffbe959cde40bca6808b78856cb44f0cce3ac2613f5dda80d",
-   "size": 42685830
+   "url": "https://raw.githubusercontent.com/torokrichard/vizo-releases/main/releases/2026.11.24.8/Vizo-2026.11.24.8.zip",
+   "sha256": "81d37a02cd90fd7222bcdbb44559c0981ebc1ab81249b9231fff067308b11d33",
+   "size": 42686582
   }
  ],
- "published_utc": "2026-11-24T17:06:06+00:00",
- "signature": "RxQvLassdmi0/XGbK/jLgyInJDhMgk5+NqpGh7tLKieKh/XPTGOiEvNe8KkifeRb5RiFUD5xlqVP/gP6qeSRCA=="
+ "published_utc": "2026-11-24T17:29:51+00:00",
+ "signature": "rkPa201mhc6H+o6GPBZYwNx3YQpMZMWwhYOadljthgv3X6n+aOHUUT3v6oVdpI5pQwwsruNv46cyvy0AXrP3CA=="
 }
